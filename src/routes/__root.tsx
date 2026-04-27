@@ -26,7 +26,7 @@ export const Route = createRootRoute({
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1, viewport-fit=cover" },
       { name: "theme-color", content: "#1a1230" },
-      { title: "EduVision mentorship — Your AI tutor" },
+      { title: "EduVision" },
       { name: "description", content: "Personalized AI mentor: explanations, adaptive quizzes, and a critic agent that double-checks every answer." },
       { property: "og:title", content: "EduVision mentorship — Your AI tutor" },
       { property: "og:description", content: "Personalized AI mentor: explanations, adaptive quizzes, and a critic agent that double-checks every answer." },

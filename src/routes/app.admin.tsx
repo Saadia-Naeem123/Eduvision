@@ -44,7 +44,7 @@ function AdminPage() {
     <div className="rounded-3xl bg-gradient-card border border-border/60 p-6 sm:p-10 text-center max-w-xl mx-auto">
       <h2 className="font-extrabold text-xl">Admin only</h2>
       <p className="text-sm text-muted-foreground mt-2">Your account doesn't have admin access.</p>
-      <p className="text-xs text-muted-foreground mt-3">Ask an existing admin to grant you the role from the Lovable Cloud dashboard.</p>
+      <p className="text-xs text-muted-foreground mt-3">Ask an existing admin to grant you the role.</p>
       <Link to="/app" className="mt-4 inline-block text-sm text-primary font-bold">← Back</Link>
     </div>
   );
