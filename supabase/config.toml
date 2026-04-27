@@ -1,0 +1,16 @@
+project_id = "pfnvdgbmtexsxyooirvv"
+
+[functions.tutor-chat]
+verify_jwt = true
+
+[functions.quiz-generate]
+verify_jwt = true
+
+[functions.quiz-grade]
+verify_jwt = true
+
+[functions.analyze-material]
+verify_jwt = true
+
+[functions.recommend]
+verify_jwt = true
